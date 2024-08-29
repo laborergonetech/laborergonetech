@@ -1,24 +1,37 @@
 ## Hi there 👋
 
-I'm currently working on obtaining 6 more certifications from w3school.com. I currently have the professional level in HTML.
-- CSS
+As of August 2024 I've obtained the professional level certification from w3schools.com in:
+- HTML
 - JavaScript
+
+I'm currently working on obtaining 5 more certifications from w3school.com. I currently have the professional level in HTML.
+- CSS
 - MySQL
 - SQL
 - Node.JS
 - Front End Developer
 
+One certification from freeCodeCamp.org:
+- Responsive Web Design
+
+Two certifications from Google:
+- 
+
 My skills also include:
 - Bootstrap 5
 - CMS
+- Online Content Production
+- Video Editing
+- Digital Marketing
+- SEO Optimization
 <br>
 <br>
 Below is my roadmap progress for Front End Development.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c25e3f837d383f4ae8f081?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
-<!--
-**laborergonetech/laborergonetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- This Uses The Language Markdown. To Change Lookup Markdown Syntax.
+**techBaker91/techBaker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
