@@ -16,7 +16,7 @@ Three certifications from freeCodeCamp.org:
 - Front End Development Libraries
 - Relational Database
 
-Two Google Certifications:
+Two certifications from Google:
 - Digital Marketing & E-commerce Professional Certificate
 - UX Design Professional Certificate
 
