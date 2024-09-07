@@ -4,18 +4,21 @@ As of August 2024 I've obtained the professional level certification from w3scho
 - HTML
 - JavaScript
 
-I'm currently working on obtaining 5 more certifications from w3school.com.
+I'm currently working on obtaining 5 more certifications from w3schools.com.
 - CSS
 - MySQL
 - SQL
 - Node.JS
 - Front End Developer
 
-One certification from freeCodeCamp.org:
+Three certifications from freeCodeCamp.org:
 - Responsive Web Design
+- Front End Development Libraries
+- Relational Database
 
-One Google Certification:
+Two Google Certifications:
 - Digital Marketing & E-commerce Professional Certificate
+- UX Design Professional Certificate
 
 My skills also include:
 - Bootstrap 5
