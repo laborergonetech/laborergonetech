@@ -1,18 +1,23 @@
 ## Hi there 👋
 
-As of August 2024 I've obtained the professional level certification from w3schools.com in:
+As of October 2024 I've obtained the professional level certification from w3schools.com in:
 - HTML
 - JavaScript
-
-I'm currently working on obtaining 5 more certifications from w3schools.com.
 - CSS
+- Front End Web Development
+Advanced Level In:
 - MySQL
+Intermediate Level In:
 - SQL
-- Node.JS
-- Front End Developer
 
-Three certifications from freeCodeCamp.org:
+As of October 2024 I've obtained certification from freeCodeCamp.org in:
 - Responsive Web Design
+
+I'm currently working on obtaining 2 more certifications from w3schools.com.
+- Node.JS
+- Full Stack Developer
+
+Two certifications from freeCodeCamp.org:
 - Front End Development Libraries
 - Relational Database
 
@@ -33,7 +38,7 @@ Below is my roadmap progress for Front End Development.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c25e3f837d383f4ae8f081?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
-<!-- This Uses The Language Markdown. To Change Lookup Markdown Syntax.
+<!-- This Uses The Language Markdown. To Change, Lookup Markdown Syntax.
 **techBaker91/techBaker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
